@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1658420253 source:c:\users\jerom\onedrive\desktop\.9011959921\questions 2\main.cpp
+	<iostream>
+	"Triangle.h"
+
+1658420253 c:\users\jerom\onedrive\desktop\.9011959921\questions 2\include\triangle.h
+
+1658420289 source:c:\users\jerom\onedrive\desktop\.9011959921\questions 2\src\triangle.cpp
+	"Triangle.h"
+	<iostream>
+
+1658420253 source:c:\users\jerom\onedrive\desktop\houtman\.9011959921\questions 2\main.cpp
+	<iostream>
+	"Triangle.h"
+
+1658420253 c:\users\jerom\onedrive\desktop\houtman\.9011959921\questions 2\include\triangle.h
+
+1658420289 source:c:\users\jerom\onedrive\desktop\houtman\.9011959921\questions 2\src\triangle.cpp
+	"Triangle.h"
+	<iostream>
+
+1658420254 source:c:\users\kvngi\onedrive\desktop\9012171221-ce\9012171221-ce\questions 2\main.cpp
+	<iostream>
+	"Triangle.h"
+
+1658420254 c:\users\kvngi\onedrive\desktop\9012171221-ce\9012171221-ce\questions 2\include\triangle.h
+
+1658420290 source:c:\users\kvngi\onedrive\desktop\9012171221-ce\9012171221-ce\questions 2\src\triangle.cpp
+	"Triangle.h"
+	<iostream>
+
